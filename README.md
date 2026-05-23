@@ -1,6 +1,8 @@
 # Ryder 🚖
 
 Ryder is a ride-booking web application developed as a collaborative group project inspired by modern cab-booking platforms. The application provides separate interfaces for users and captains, secure authentication, and a complete ride-booking workflow with a mobile-first design approach.
+This project was developed collaboratively by [AVC](https://github.com/the-avc) and me as a team project.
+
 
 ## Features
 
