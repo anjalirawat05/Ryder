@@ -12,7 +12,9 @@ createRoot(document.getElementById('root')).render(
     <CaptainContext>
     <UserContext>
       <BrowserRouter>
-        <App />
+ <div className="max-w-[430px] mx-auto">
+   <App />
+</div>
       </BrowserRouter>
     </UserContext>
   </CaptainContext>
